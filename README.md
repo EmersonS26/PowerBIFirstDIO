@@ -1,10 +1,11 @@
-##Desafio DIO
-Esse desafio visa treinar a habilidade de criação de visuais do power bi. Assim, poderei criar familiaridade com esses recursos.
+# DESAFIO DIO (Primeiros passos com Power BI) 🚀
 
-Visual mapa 1: Soma de sales e unidades vendidas por país 
+🧐 Esse desafio visa treinar a habilidade de criação de visuais do power bi. Assim, poderei criar familiaridade com esses recursos.
 
-Visual mapa 2: Soma de lucro (profit) por país 
+- Visual mapa 1: Soma de sales e unidades vendidas por país 
 
-Visual de pizza: Lucro por segmento 
+- Visual mapa 2: Soma de lucro (profit) por país 
+
+- Visual de pizza: Lucro por segmento 
 
  
